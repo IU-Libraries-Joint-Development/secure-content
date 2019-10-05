@@ -1,0 +1,8 @@
+{
+
+  "name": "secure-content",
+
+  "static": {
+    "path": "/srv/services"
+  }
+}

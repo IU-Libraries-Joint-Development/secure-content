@@ -1,0 +1,22 @@
+{
+  "server": {
+   "port": 8250
+  },
+  "repoService": {
+    "purl": {
+      "host": "purl.dlib.indiana.edu",
+      "context": "/iudl",
+      "port": 80
+    },
+    "fedora": {
+      "host": "fedora.dlib.indiana.edu",
+      "context": "/",
+      "port": 80
+    },
+    "indexing": {
+      "host": "fedora.dlib.indiana.edu",
+      "context": "/SRU",
+      "port": 80
+    }
+  }
+}
